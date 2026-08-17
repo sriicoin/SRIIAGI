@@ -1,5 +1,5 @@
 """
-Jailbreak prompt library — OWASP LLM Top 10 & academic research based.
+SRIIAGI — Jailbreak prompt library (OWASP LLM Top 10 & academic research based).
 Categories:
   1. Role-play / Persona adoption (DAN-style)
   2. Hypothetical framing
