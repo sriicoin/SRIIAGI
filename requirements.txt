@@ -1,2 +1,4 @@
 # SRIIAGI — Requirements
 openai>=1.30.0
+rich>=13.0.0
+pyinstaller>=5.0
